@@ -15,8 +15,8 @@
   
   
 </div>  
-### :man_technologist: About Me :
-I am a backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+### :man_technologist: Обо мне :
+Я бэкенд Java разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 
 - :telescope: I’m working as a Java Software Engineer and contributing to backend for building web applications.
 

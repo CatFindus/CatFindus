@@ -20,5 +20,5 @@ I am a backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-your-username-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/apuchinec)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@apuchinec-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/apuchinec)
 

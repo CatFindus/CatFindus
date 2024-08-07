@@ -16,8 +16,10 @@
   
 </div>  
 ### :man_technologist: About me :
+<div>
 Java-разработчик, обладающий практическим опытом программирования на Java и хорошим пониманием принципов объектно-ориентированного проектирования. Опытен в разработке и поддержке Java-приложений, владею фреймворками Spring, Hibernate. Увлечен программированием и решением задач, обладаю доказанной способностью быстро адаптироваться к новым средам и изучать новые технологии.
-:mailbox:Связь со мной: [![Telegram Badge](https://img.shields.io/badge/-@apuchinec-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/apuchinec)
----
+</div>  
+-- :mailbox:Связь со мной: [![Telegram Badge](https://img.shields.io/badge/-@apuchinec-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/apuchinec)
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :

@@ -2,8 +2,8 @@
   <h1>
   Приветсвую! Я Пучинец Антон
 </div>
----    
 <div id="badges" align="center">
+  <h2>Мой LinkedIn ->
   <a href = "https://www.linkedin.com/in/apuchinets/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  

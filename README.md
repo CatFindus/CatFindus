@@ -3,13 +3,6 @@
   Приветсвую! Я Пучинец Антон
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </div>
-<div id="badges" align="center">
-  <h2>Мой LinkedIn ->
-  <a href = "https://www.linkedin.com/in/apuchinets/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>  
-</h1>
-</div>
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=CatFindus&style=flat-square&color=blue" alt=""/>
   
@@ -21,7 +14,12 @@ Java-разработчик, обладающий практическим оп�
   </div>  
   <div>
 
-:mailbox: Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-@apuchinec-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/apuchinec)    
+:mailbox: Связаться со мной:
+<br>
+[![Telegram Badge](https://img.shields.io/badge/-@apuchinec-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/apuchinec)    
+ <a href = "https://www.linkedin.com/in/apuchinets/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>  
   </div>
 </div>
 <div>

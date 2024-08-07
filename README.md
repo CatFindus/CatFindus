@@ -19,7 +19,15 @@
   <div>
 Java-разработчик, обладающий практическим опытом программирования на Java и хорошим пониманием принципов объектно-ориентированного проектирования. Опытен в разработке и поддержке Java-приложений, владею фреймворками Spring, Hibernate. Увлечен программированием и решением задач, обладаю доказанной способностью быстро адаптироваться к новым средам и изучать новые технологии.
   </div>  
-:mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-apuchinec-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/apuchinec)
+  <div>
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@apuchinec-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/apuchinec)    
+  </div>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :

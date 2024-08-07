@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <h1>
   Приветсвую! Я Пучинец Антон
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </div>
 <div id="badges" align="center">
   <h2>Мой LinkedIn ->
@@ -12,7 +13,7 @@
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=CatFindus&style=flat-square&color=blue" alt=""/>
   
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  
 </div>  
 ### :man_technologist: About Me :
 I am a backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.

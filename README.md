@@ -15,16 +15,9 @@
   
   
 </div>  
-### :man_technologist: Обо мне :
-Я бэкенд Java разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> из России.
-
-- :telescope: I’m working as a Java Software Engineer and contributing to backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
-
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@apuchinec-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/apuchinec)
+### :man_technologist: About me :
+Java-разработчик, обладающий практическим опытом программирования на Java и хорошим пониманием принципов объектно-ориентированного проектирования. Опытен в разработке и поддержке Java-приложений, владею фреймворками Spring, Hibernate. Увлечен программированием и решением задач, обладаю доказанной способностью быстро адаптироваться к новым средам и изучать новые технологии.
+- :mailbox:Связь со мной: [![Telegram Badge](https://img.shields.io/badge/-@apuchinec-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/apuchinec)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :

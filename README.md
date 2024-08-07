@@ -15,19 +15,34 @@
   
   
 </div id="about_me">  
-### :man_technologist: About me :
+ :man_technologist: Обо мне :
   <div>
 Java-разработчик, обладающий практическим опытом программирования на Java и хорошим пониманием принципов объектно-ориентированного проектирования. Опытен в разработке и поддержке Java-приложений, владею фреймворками Spring, Hibernate. Увлечен программированием и решением задач, обладаю доказанной способностью быстро адаптироваться к новым средам и изучать новые технологии.
   </div>  
   <div>
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
-
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@apuchinec-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/apuchinec)    
+:mailbox: Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-@apuchinec-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/apuchinec)    
   </div>
 </div>
-
-### :hammer_and_wrench: Languages and Tools :
+<div>
+  <h1>Мои проекты</h1>
+  <br>
+  <h2>Java:</h2>
+  <br>
+  <a href = "https://github.com/CatFindus/VacancyAgregator">Агрегатор Вакансий(Servlets, HTML, CSS, JS, Docker, Junit, Mockito)</a>
+  <br>
+  <a href = "https://github.com/CatFindus/University">Менеджер расписаний университета(Servlets, Hibernate, Rest API, Postgresql, Docker, Junit, Mockito)</a>
+  <br>
+  <a href = "https://github.com/CatFindus/TaskManager">Редактор задач(Servlets, Hibernate, HTML, CSS, JS, Docker, Junit, Mockito, Testcontainers)</a>
+  <br>
+  <h2>Spring Framework:</h2>
+  <br>
+  <a href = "https://github.com/CatFindus/SpringTask">Spring Редактор задач(Продолжение развития редактора, переписанное на классический Spring</a>
+  <br>
+  <a href = "https://github.com/CatFindus/SpringTask">Система управления интернет магазином(Microservices, Spring Boot, Postgresql, Mongodb, Redis, Telegram Api, MTS Api, Cb Api, Kafka, Swagger)</a>
+  <br>
+  <h2>Сертификат JavaRush:</h2>  
+  <br>
+</div>
+<div
+</div>

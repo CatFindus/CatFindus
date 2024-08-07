@@ -14,12 +14,12 @@
   <img src="https://komarev.com/ghpvc/?username=CatFindus&style=flat-square&color=blue" alt=""/>
   
   
-</div>  
+</div id="about_me">  
 ### :man_technologist: About me :
-<div>
+  <div>
 Java-разработчик, обладающий практическим опытом программирования на Java и хорошим пониманием принципов объектно-ориентированного проектирования. Опытен в разработке и поддержке Java-приложений, владею фреймворками Spring, Hibernate. Увлечен программированием и решением задач, обладаю доказанной способностью быстро адаптироваться к новым средам и изучать новые технологии.
-</div>  
--- :mailbox:Связь со мной: [![Telegram Badge](https://img.shields.io/badge/-@apuchinec-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/apuchinec)
+  </div>  
+:mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-apuchinec-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/apuchinec)
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :

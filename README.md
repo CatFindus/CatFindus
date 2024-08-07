@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk" width="100"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2t1aWY5cm9zdXAycHd0M3Vrczc2bXpuN3ExYTV1bGk2OXIxanppaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href = "https://www.linkedin.com/in/apuchinets/">

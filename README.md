@@ -43,6 +43,7 @@ Java-разработчик, обладающий практическим оп�
   <br>
   <h2>Сертификат JavaRush:</h2>  
   <br>
+  <a href = "https://certificate.javarush.com/anton_puchinets.pdf">Java Developer Professional</a>
 </div>
 <div
 </div>
